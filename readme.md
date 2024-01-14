@@ -1,7 +1,7 @@
 Conor Moran
 ============================
 
-I am a self-taught developer on the path to global domination, I mostly work in python but enjoy dipping my toes into everything. Feel free to have a look at my portfolio and get in touch here.
+I am a self-taught developer on the path to global domination, I mostly work in python but enjoy dipping my toes into everything. Feel free to have a look at my portfolio and get in touch <a href="mailto:conorjmoran4@gmail.com">here.</a>
 
 ### Socials
 

@@ -1,3 +1,3 @@
 <p align="center">
-![blah blah blah](https://media.tenor.com/32hEFSOCtTQAAAAM/peepo-juice-spin-pepojuicespin.gif)
+<img src="https://media.tenor.com/32hEFSOCtTQAAAAM/peepo-juice-spin-pepojuicespin.gif" />
 </p>
